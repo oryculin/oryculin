@@ -294,7 +294,7 @@ header nav ul li a:hover {
         padding: 0 8px;
     }
     .intro-text {
-        font-size: 28px;
+        font-size: 35px;
         padding: 8px 0 0 0;
     }
     .banner-img {
@@ -309,7 +309,7 @@ header nav ul li a:hover {
         font-size: 18px;
     }
     .content h2 {
-        font-size: 22px;
+        font-size: 25px;
         margin: 0 0 10px 0;
     }
     .content p {
@@ -489,7 +489,7 @@ html, body {
 
 @media (max-width: 899px) {
     .story-title h1 {
-        font-size: 35px;
+        font-size: 32px;
         padding: 5px;
         margin-bottom: 8px;
     }
